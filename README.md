@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -18,6 +19,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,4 +28,24 @@
 | [0583-delete-operation-for-two-strings](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
