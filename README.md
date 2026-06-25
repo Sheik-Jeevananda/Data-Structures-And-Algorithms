@@ -9,6 +9,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0072-edit-distance](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0115-distinct-subsequences/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0583-delete-operation-for-two-strings/) | Medium |
@@ -23,6 +24,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0072-edit-distance](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0115-distinct-subsequences/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0583-delete-operation-for-two-strings/) | Medium |
