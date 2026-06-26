@@ -9,6 +9,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0115-distinct-subsequences/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -24,6 +25,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0115-distinct-subsequences/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -50,4 +52,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0044-wildcard-matching](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0044-wildcard-matching/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0044-wildcard-matching](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0044-wildcard-matching/) | Hard |
 <!---LeetCode Topics End-->
