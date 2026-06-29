@@ -30,6 +30,7 @@
 | [0072-edit-distance](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1092-shortest-common-supersequence/) | Hard |
@@ -38,6 +39,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -61,6 +63,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0044-wildcard-matching/) | Hard |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
