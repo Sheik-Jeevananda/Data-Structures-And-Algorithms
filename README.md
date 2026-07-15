@@ -35,6 +35,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
+| [0300-longest-increasing-subsequence](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0337-house-robber-iii](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0337-house-robber-iii/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -49,6 +50,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
+| [0300-longest-increasing-subsequence](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -94,6 +96,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
