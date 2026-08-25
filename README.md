@@ -7,6 +7,7 @@
 | [1048-longest-string-chain](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1048-longest-string-chain/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -67,6 +68,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
