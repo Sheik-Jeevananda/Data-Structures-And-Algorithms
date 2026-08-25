@@ -56,6 +56,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0136-single-number](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0136-single-number/) | Easy |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
+| [0260-single-number-iii](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0260-single-number-iii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0368-largest-divisible-subset/) | Medium |
@@ -169,5 +170,6 @@
 | ------- | ------- |
 | [0136-single-number](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0231-power-of-two/) | Easy |
+| [0260-single-number-iii](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0260-single-number-iii/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 <!---LeetCode Topics End-->
