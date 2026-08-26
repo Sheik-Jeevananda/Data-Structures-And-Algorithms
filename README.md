@@ -144,6 +144,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0029-divide-two-integers/) | Medium |
 | [0231-power-of-two](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0231-power-of-two/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0368-largest-divisible-subset/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1486-xor-operation-in-an-array/) | Easy |
@@ -171,6 +172,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0029-divide-two-integers/) | Medium |
 | [0136-single-number](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0260-single-number-iii/) | Medium |
