@@ -67,6 +67,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -105,6 +106,7 @@
 | [0368-largest-divisible-subset](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0368-largest-divisible-subset/) | Medium |
 | [1048-longest-string-chain](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1048-longest-string-chain/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +125,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
