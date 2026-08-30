@@ -66,6 +66,7 @@
 | [1048-longest-string-chain](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1048-longest-string-chain/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -95,6 +96,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
