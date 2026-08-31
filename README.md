@@ -183,4 +183,8 @@
 | [0260-single-number-iii](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0260-single-number-iii/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 <!---LeetCode Topics End-->
