@@ -7,6 +7,7 @@
 | [1048-longest-string-chain](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1048-longest-string-chain/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## String
@@ -70,6 +71,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Divide and Conquer
@@ -123,6 +125,7 @@
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +141,7 @@
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,6 +187,7 @@
 | [0260-single-number-iii](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0260-single-number-iii/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
