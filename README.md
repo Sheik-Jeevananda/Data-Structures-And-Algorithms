@@ -74,6 +74,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,6 +159,7 @@
 | [0368-largest-divisible-subset](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0368-largest-divisible-subset/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
