@@ -18,6 +18,7 @@
 | [0115-distinct-subsequences](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0115-distinct-subsequences/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1048-longest-string-chain](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/master/1189-maximum-number-of-balloons) |
@@ -47,6 +48,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1048-longest-string-chain](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
