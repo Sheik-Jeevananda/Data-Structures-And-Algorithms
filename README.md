@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [1048-longest-string-chain](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1048-longest-string-chain/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/master/1189-maximum-number-of-balloons) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -68,6 +69,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1048-longest-string-chain](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1048-longest-string-chain/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -96,6 +98,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Greedy
@@ -121,6 +124,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -164,6 +168,7 @@
 | [0029-divide-two-integers](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0029-divide-two-integers/) | Medium |
 | [0231-power-of-two](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0231-power-of-two/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/0368-largest-divisible-subset/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sheik-Jeevananda/Data-Structures-And-Algorithms/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
